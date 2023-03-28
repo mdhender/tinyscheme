@@ -13,6 +13,7 @@
 BUILDING            text eol=lf
 CHANGES             text eol=lf
 COPYING             text eol=lf
+SConstruct          text eol=lf
 building            text eol=lf
 changes             text eol=lf
 copying             text eol=lf
