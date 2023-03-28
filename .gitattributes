@@ -10,6 +10,8 @@
 *.txt               text eol=lf
 .gitattributes      text eol=lf
 .gitignore          text eol=lf
+BUILDING            text eol=lf
+CHANGES             text eol=lf
 COPYING             text eol=lf
 go.mod              text eol=lf
 go.sum              text eol=lf
