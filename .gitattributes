@@ -13,6 +13,9 @@
 BUILDING            text eol=lf
 CHANGES             text eol=lf
 COPYING             text eol=lf
+building            text eol=lf
+changes             text eol=lf
+copying             text eol=lf
 go.mod              text eol=lf
 go.sum              text eol=lf
 makefile            text eol=lf
